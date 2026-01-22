@@ -1,0 +1,5 @@
+Player URL:
+https://niralkagoons.github.io/player/?list=https://raw.githubusercontent.com/niralkagoons/dd6d40a9f354f71e/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/niralkagoons/dd6d40a9f354f71e/refs/heads/master/github_master.m3u8
